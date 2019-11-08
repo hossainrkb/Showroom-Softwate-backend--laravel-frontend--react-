@@ -1,0 +1,11 @@
+export const PRODUCT_ERROR = "PRODUCT_ERROR";
+export const ADD_PRODUCT = "ADD_PRODUCT";
+export const PRODUCT_LIST = "PRODUCT_LIST";
+export const ADD_CART = "ADD_CART";
+export const ADD_ORDER = "ADD_ORDER";
+export const ADD_COMPANY = "ADD_COMPANY";
+export const LOGIN_COMPANY = "LOGIN_COMPANY";
+export const UPDATE_PRODUCT_CART = "UPDATE_PRODUCT_CART";
+export const CART_LIST = "CART_LIST";
+export const SALETYPE_LIST = "SALETYPE_LIST";
+export const CHECK_LOGIN = "CHECK_LOGIN";
